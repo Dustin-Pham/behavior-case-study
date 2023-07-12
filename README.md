@@ -1,1 +1,1 @@
-# behavior-case-study
+# Consumer Purchase Behavior Case Study
