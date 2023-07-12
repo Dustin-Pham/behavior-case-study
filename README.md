@@ -23,26 +23,24 @@ From the findings, I believe that we should focus the advertisments towards fema
 Find any information on female from consumer behavior dataset. Develop recommendations in order to assist the business in driving sales.
 
 **Findings:** 
-It appears that although the age group 
+It appears that females ages 16-24 is browsing amazon store the most and the purchase frequency for them is less than once a month. I also see that a large amount of female ages 25-54 purchases a few times a month when browsing a few times a month. Females age 25-54 would be the most helpful in driving more business since they leave the most reviews. When looking at the save for later and cart completion frequency, I mainly wanted to look at always cart completion or often since we are looking for higher chance of improving sales. I see that when people always complete cart completion, they  either sometimes save the item for later or often save the item for later. When looking at whether Personalized recommendation works, I was able to discover that it sometimes works, but for the most part, it never really works. 
 
-**Recommendation:** The business analyst recommended that the company implement a new project management system. The system would provide a central repository for project information, improve communication between stakeholders, and automate some of the project management tasks.
+**Recommendation:** 
+Depends on the goals, I believe that for long term we should focus the advertisments towards females from ages 25-54. By doing so, we are building a crediable source for new audience to purchase new products. For short term, I believe that we should focus on females ages 16-24 because they are browsing a few times a month and from that have the larges purchase frequency of once a week, once a month, and less than once a month. We clearly need to fix the personalized recommendation, maybe if they opt-in to personalized ads, we would be able to get a better understanding of what they may want to purchase. 
 
-**Implementation:** The company implemented the new project management system, and the results were dramatic. The number of customer escalations decreased, profitability improved, and management time was freed up to focus on strategic initiatives.
-
-**Conclusion:** The case study shows how a business analyst can help a company solve a complex problem and achieve its business goals. The business analyst's skills in problem-solving, communication, and analysis were essential to the success of the project.
+**Conclusion:** This case study shows how a I can help a company solve a complex problem and achieve its business goals. My skills in problem-solving and analysis is essential in debunking ambiguous questions. I try to identify new target markets in order to drive more sales. In a case where theres another ambiguous question, I can break it down in a logical and structual analysis in order to develop a business decision.
 
 ## Male Dashboard
 
 ![image](https://github.com/Dustin-Pham/behavior-case-study/blob/main/Dashboard/Female%20Dashboard.PNG)
 
-**Problem:** ABC Technologies is a rapidly growing company that has been struggling to manage its projects effectively. The number of customer escalations has gone up significantly, profitability is getting eroded, and significant management time is being spent in fire-fighting.
+**Problem:** Find any information on male from consumer behavior dataset. Develop recommendations in order to assist the business in driving sales.
 
-**Findings:** The business analyst found that the company's project management process was outdated and inefficient. There was no central repository for project information, and communication between stakeholders was poor.
+**Findings:** 
+It appears that males ages 25-54 is the dominant user from the data. Male users are browsing amazon store the most and the purchase frequency for them dominant all the other age group. Male users also leaves the most reviews. It appears that for males, if one were to save for later often or rarely they are a higher chance of always having a cart completion. When looking at whether Personalized recommendation works, I was able to discover that it sometimes and often works. This means that we could focus personalized ads more.
 
-**Recommendation:** The business analyst recommended that the company implement a new project management system. The system would provide a central repository for project information, improve communication between stakeholders, and automate some of the project management tasks.
+**Recommendation:** With the evident results from the data, I believe that for both long term and short term we should focus the advertisments towards males from ages 25-54. By doing so, we could drive more revenue and create a credible company with all the reviews left. The personalized ads have slightly been working (can be improved). We can see that males are easier to observe and we could easily focus on a certain group. Focus on trying to get more reviews in, and increase the browsing frequency by promoting deals on lighting sales on personalized ads.
 
-**Implementation:** The company implemented the new project management system, and the results were dramatic. The number of customer escalations decreased, profitability improved, and management time was freed up to focus on strategic initiatives.
-
-**Conclusion:** The case study shows how a business analyst can help a company solve a complex problem and achieve its business goals. The business analyst's skills in problem-solving, communication, and analysis were essential to the success of the project.
+**Conclusion:** This case study shows how a I can help a company solve a complex problem and achieve its business goals. My skills in problem-solving and analysis is essential in debunking ambiguous questions. I try to identify new target markets in order to drive more sales. In a case where theres another ambiguous question, I can break it down in a logical and structual analysis in order to develop a business decision.
 
 
