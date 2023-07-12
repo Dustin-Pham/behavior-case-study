@@ -5,7 +5,7 @@
 Find any information from consumer behavior dataset in order to promote more sales. Try to find any information specifically consumers that view multiple pages and present findings, recommendations and Implemations.
 
 **Findings:** 
-
+Firstly, I wanted to look at data on people that looked at multiple pages. My reason behind this is that without any other information any varaibles we can look at what the data presents us on people that spend their time scrolling through the Amazon page. We find that there a large amount of users are Female, and that the dominant age group is 25-54. Knowing that reviews are important to a product being successful or not, we see that female left the most reviews.
 
 **Recommendation:** The business analyst recommended that the company implement a new project management system. The system would provide a central repository for project information, improve communication between stakeholders, and automate some of the project management tasks.
 
