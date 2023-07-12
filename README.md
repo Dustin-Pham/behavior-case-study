@@ -1,15 +1,21 @@
 # Consumer Purchase Behavior Case Study
 
+**Background:**
+Amazon dataset that revolves around the consumers behavior. The goal is to analyze the data given and showcase my SQL, Power BI, and Python skills. Come up with real business questions and identify possible strategies in order to drive sales. I hope yall enjoy, and any feedback on anything would be greatly appreciated! Thanks!
+
 ![image](https://github.com/Dustin-Pham/behavior-case-study/blob/main/Dashboard/Multiple%20Page%20Dashboard.PNG?raw=true)
+
 **Problem:** 
 Find any information from consumer behavior dataset in order to promote more sales. Try to find any information specifically consumers that view multiple pages and present findings, recommendations and Implemations.
 
 **Findings:** 
-Firstly, I wanted to look at data on people that looked at multiple pages. My reason behind this is that without any other information any varaibles we can look at what the data presents us on people that spend their time scrolling through the Amazon page. We find that there a large amount of users are Female, and that the dominant age group is 25-54. Knowing that reviews are important to a product being successful or not, we see that female left the most reviews.
+Firstly, I wanted to look at data on people that looked at multiple pages. My reason behind this is that without any other information any varaibles we can look at what the data presents us on people that spend their time scrolling through the Amazon page. We find that a large amount of users are Female, and that the dominant age group is 25-54. Knowing that reviews are important to a product being successful or not, we see that female left the most reviews.
 
-**Recommendation:** The business analyst recommended that the company implement a new project management system. The system would provide a central repository for project information, improve communication between stakeholders, and automate some of the project management tasks.
+**Recommendation:** 
+From the findings, I believe that we should focus the advertisments towards females from ages 25-54. By doing so, we are (supposedly) catering towards over a little half of the users. In addition, we should focus on customer service responsiveness in order to achieve 100% satisfaction from the customers. Amazon could attempt to slightly change the system of the current customer service by increasing more employees in order to reduce the wait of the customers, or add more FAQs that could help those who need it.
 
-**Implementation:** The company implemented the new project management system, and the results were dramatic. The number of customer escalations decreased, profitability improved, and management time was freed up to focus on strategic initiatives.
+**Implementation:** 
+The company implemented the new project management system, and the results were dramatic. The number of customer escalations decreased, profitability improved, and management time was freed up to focus on strategic initiatives.
 
 **Conclusion:** The case study shows how a business analyst can help a company solve a complex problem and achieve its business goals. The business analyst's skills in problem-solving, communication, and analysis were essential to the success of the project.
 
